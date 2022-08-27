@@ -1,0 +1,13 @@
+.player{
+    background-color: FFFEFE;
+    
+}
+.player::-webkit-slider-thumb {
+    -webkit-appearance: none; /* Override default look */
+    appearance: none;
+    width: 1rem; 
+    height: 25px; 
+    background: #E2001A;
+    border-radius: 500px; 
+    cursor: pointer;
+  }

@@ -1,0 +1,27 @@
+.left {
+  position: relative;
+  left: 50%;
+  right: -13.85%;
+  top: 4.51%;
+  bottom: 95.49%;
+    background-color: #fffefe;
+  border: 3px solid #fffefe;
+  transform: rotate(129.76deg);
+  width: 1000px;
+}
+.right {
+  position: relative;
+  width: 1000px;
+  left: -50%;
+  right: -13.85%;
+  top: 4.51%;
+  bottom: 95.49%;
+    background-color: #fffefe;
+  border: 3px solid #fffefe;
+  transform: rotate(129.76deg);
+}
+.scrollbar::-webkit-scrollbar {
+  display: none;
+  -webkit-overflow-scrolling: touch;
+}
+
