@@ -1,5 +1,5 @@
 ## About
-RTU is a University Radio which aims to promote and support student life in the university city of Paris - FRANCE
+RTU is a University Radio which aims to promote and support student life in the university city of Paris - FRANCE, RTU approached me to create their website and this is what I came up with :
 <br />
 ## Tech Stack
 
